@@ -1,6 +1,6 @@
 # dbank
-Banking DApp. You have a starting amount in your account, you can virtually deposit money and withdrawl an amount that's < currentAmount.
-The app is build on Dfinity Internet Computer blockchain via Motoko language. You can run it locally on your machine.
+Defi Banking app: you have a starting amount in your account, you can virtually deposit money and withdrawl an amount that's < currentAmount.
+This is a decentralized app that can run without standard backend logic, it is build on Dfinity Internet Computer blockchain via Motoko language. You can run it locally on your machine.
 
 ## Running the project locally
 
